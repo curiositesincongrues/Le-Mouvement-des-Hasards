@@ -154,14 +154,65 @@ DO  → GPIO
 
 ---
 
-## 🟡 Symboles
+## 🟡 Symboles -> Enigmes sonores
 
-- SOLEIL
-- LUNE
-- FEU
-- ARBRE
-- EAU
-- ÉCLAIR
+1. **Zèbre** — Rayures noir blanc
+2. **Pomme** — Fruit rond croquant
+3. **Bonhomme** — Tête bras jambes
+4. **Goutte d’eau** — Tombe fait ploc
+5. **Clown** — Nez rouge rigolo
+6. **Ampoule** — Éclaire idée lumière
+7. **Fromage** — Jaune sent fort
+8. **Clef** — Ouvre porte serrure
+9. **Dauphin** — Nage saute mer
+10. **Biberon** — Bébé boit lait
+11. **Cadenas** — Ferme avec clé
+12. **Araignée** — Huit pattes tisse
+13. **Coccinelle** — Rouge points noirs
+14. **Toile d’araignée** — Filet fin collant
+15. **Dinosaure** — Géant ancien rugit
+16. **Soleil** — Brille chauffe ciel
+17. **Cœur** — Bat dans poitrine
+18. **Sens interdit** — Stop passage interdit
+19. **Cactus** — Plante verte piquante
+20. **Point d’interrogation** — Signe pour question
+21. **Lune** — Brille pendant nuit
+22. **Flocon** — Froid blanc léger
+23. **Horloge** — Tic tac heure
+24. **Fleur** — Pétales tige parfum
+25. **Yin et yang** — Noir blanc équilibre
+26. **Dobble** — Logo du jeu
+27. **Fantôme** — Blanc flotte peur
+28. **Bouche** — Parle mange souffle
+29. **Chien jaune** — Aboie queue remue
+30. **Crayon** — Écrit dessine papier
+31. **Clef de sol** — Signe note musique
+32. **Cible** — Rond viser centre
+33. **Tête de mort** — Crâne danger pirate
+34. **Bombe** — Boum mèche danger
+35. **ART / Oiseau** — Oiseau vole chante
+36. **Flamme** — Feu chaud danse
+37. **Igloo** — Maison glace ronde
+38. **Chat** — Miaule moustaches griffes
+39. **Peinture verte** — Tache verte peinture
+40. **Voiture** — Roule fait vroum
+41. **Marteau orange** — Tape clou fort
+42. **Trèfle à 4 feuille** — Porte bonheur vert
+43. **Carotte** — Orange lapin croque
+44. **Lunette de soleil** — Protège yeux soleil
+45. **Ciseaux** — Coupent papier tissu
+46. **Feuille rouge** — Tombe arbre automne
+47. **Point d’exclamation** — Surprise forte émotion
+48. **Dragon** — Crache feu aile
+49. **Bougie** — Petite flamme cire
+50. **Bonhomme de neige** — Neige carotte hiver
+51. **Glaçon** — Cube eau froid
+52. **Ancre** — Bateau mer lourd
+53. **Arbre** — Tronc feuilles branches
+54. **Œil violet** — Regarde voit cligne
+55. **Petit cheval d’échec** — Cavalier jeu stratégie
+56. **Éclair** — Flash ciel orage
+57. **Tortue** — Lente carapace verte
 
 ---
 
@@ -184,7 +235,7 @@ Chaque jeton du Puissance 4 peut déclencher une ambiance différente.
 
 ---
 
-# 🛠️ FABRICATION
+# 🛠️ Conception
 
 ## Ping pong
 - créer 3 zones
@@ -193,13 +244,10 @@ Chaque jeton du Puissance 4 peut déclencher une ambiance différente.
 - tester avec de vraies balles
 
 ## Puissance 4
-- fabriquer une structure verticale simple
-- prévoir 4 colonnes minimum
 - placer 1 capteur derrière ou sous chaque zone de chute
 - renforcer la structure pour éviter les vibrations parasites
 
 ## Dobble XXL
-- préparer 6 cartes plastiques
 - fixer une surface conductrice
 - relier chaque carte au Makey Makey
 - protéger les contacts
